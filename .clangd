@@ -1,0 +1,5 @@
+CompileFlags:
+  Add: 
+    - "-I/home/liyuan/code/work/llm/test_llm/deps/include"
+    - "-I/home/liyuan/code/work/llm/test_llm/deps/include/express"
+    - "-I/home/liyuan/code/work/llm/test_llm/deps/include/cv"

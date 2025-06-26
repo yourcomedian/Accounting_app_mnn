@@ -1,0 +1,26 @@
+# 忽略编译生成的文件
+build/
+*.o
+*.so
+*.a
+*.exe
+
+# 忽略Python相关文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# 忽略IDE和编辑器生成的文件
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# 忽略日志文件
+*.log
